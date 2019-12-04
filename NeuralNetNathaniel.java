@@ -3,7 +3,7 @@
 /**
  * @author Nathaniel E. Russell
  * NeuralNetNathaniel
- * 2019-2-23
+ * 23 February 2019
  */
 
 public class NeuralNetNathaniel
